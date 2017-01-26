@@ -533,3 +533,5 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
                 });
     }
 }
+
+//testing
