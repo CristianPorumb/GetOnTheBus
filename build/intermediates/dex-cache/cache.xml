@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_4d54f313267e085d4f506ee1e2e6a612e8805443\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_fc3d2c3bb621f24bce118b8750de0f176030555e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_def5a203b766c807ffcb18bb2e4af6dda866d2c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_19506d2fe9972237accf25d28a0da8c9f5fd3dfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_871bd46fd9c93e0d07137532a3566e98cbca5203\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_952b5405ee97df53d07d969ddf198f8bfdaecdb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_9c3b2bed0153f64797523d67e9568550a51f58f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e2c81c8bd62e614fffb5216747e88ab56a1d2f50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aaeae8376c8d8cb0d94bb43c615b108e53860060">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_587adf167eb2180f2e8d393c31332a02ed01ee2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_634df3fa2c7612e46d39a88fbf862c802450d2e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_b53eabaf93cf6e9e89db8b555e7736a5b17df484\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_5bb7ecc8effed82f1693c81b3d5fdcb8b62684e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_e8a9860eda5213b62cc3c5d3d422e08efb63191c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_b45259b52e77eed2bd54d5f425b6830b2f9143d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.amitshekhar.android\android-networking\0.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7db18835e418c2cf1adfaf02f655f9ec72ef4143">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.amitshekhar.android-android-networking-0.1.0_f49663fce4feba89e1f9092881971810b2ece7eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_a138d3584d2a57599825c88afbbdeda6afee47cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_171cb563e5dfd41f7c4bdf963b9a4be930038f81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_2383c2e193479bcf56b6389fbca6b7bc94aa0c05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_5189148ff5c8b118c4fd51683a08e3f40fa024da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_9f0bdbe8cfb963682bffa3d24cc7edb2b5639bf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2b3a326a892db81c21d4e1025fa68bf89a5211b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_8b4913b47643044a94e5a1e1102ed705b7b3b08b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9801ef7bec865f616e635d5d3a24ffb7704aa504\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_42175b93ea23096d35ff688a138ed7cdc88cfa6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_93148218f2d20694bbebeda70a83120d8e4c84e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="12d4b0f0c04de0b8e06ed76ee2e2a27a8cb23c73">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6f9105cf9159fb50356e7a9f62773759bf97cc7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Cristian PORUMB\Desktop\Android project final\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9f4ef45247358a4a500f2b8335f7e954acf306c7\classes.dex" />
+    </item>
+
+</items>

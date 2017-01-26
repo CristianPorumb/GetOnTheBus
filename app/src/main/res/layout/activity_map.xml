@@ -1,0 +1,87 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.project.cristian.myapplication.MapActivity">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp">
+
+        <Button
+            android:id="@+id/httpBtn"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:onClick="HTTPTest"
+            android:padding="@dimen/padding_button"
+            android:paddingRight="@dimen/padding_button"
+            android:text="Bus Station" />
+
+        <Button
+            android:id="@+id/velohBtn"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:onClick="LoadVeloh"
+            android:padding="@dimen/padding_button"
+            android:paddingRight="@dimen/padding_button"
+            android:text="Veloh Station" />
+
+        <Button
+            android:id="@+id/drawRoute"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:onClick="drawRoute"
+            android:padding="@dimen/padding_button"
+            android:paddingRight="@dimen/padding_button"
+            android:text="Draw Route" />
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:layout_marginTop="10dp"
+            >
+
+            <RadioButton
+                android:id="@+id/closeBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/httpBtn"
+                android:layout_marginTop="10dp"
+                android:padding="@dimen/padding_radiobutton"
+                android:paddingRight="10dp"
+                android:text="Closest" />
+
+            <RadioButton
+                android:id="@+id/twoButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/httpBtn"
+                android:layout_marginTop="10dp"
+                android:padding="@dimen/padding_radiobutton"
+                android:paddingRight="10dp"
+                android:text="500m" />
+
+            <RadioButton
+                android:id="@+id/fiveButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/httpBtn"
+                android:layout_marginTop="10dp"
+                android:padding="@dimen/padding_radiobutton"
+                android:paddingRight="10dp"
+                android:text="1000m" />
+        </RadioGroup>
+
+
+    </LinearLayout>
+</fragment>
