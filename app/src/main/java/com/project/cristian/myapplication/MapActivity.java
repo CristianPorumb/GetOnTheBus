@@ -256,7 +256,7 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
         mMap.clear();
         String radius = "";
         if ( closeRadio.isChecked() ){                  //check close radio button clicked
-            radius = "1000";                            // set radius 1000m
+            radius = "200";                            // set radius 200m
         }else if ( twoRadio.isChecked() ){
             radius = "500";
         }else if ( fiveRadio.isChecked()) {
@@ -340,7 +340,7 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
         if ( mEraseMarker != null &&  mEraseMarker.getTitle().equals("Bus Station")){        //Redraw bus station markers bcz map is cleared - same with when bus station button is clicked
             String radius = "";
             if ( closeRadio.isChecked() ){
-                radius = "1000";
+                radius = "200";
             }else if ( twoRadio.isChecked() ){
                 radius = "500";
             }else if ( fiveRadio.isChecked()) {
