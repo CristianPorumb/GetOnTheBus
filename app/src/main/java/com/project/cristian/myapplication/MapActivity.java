@@ -168,7 +168,6 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
             mCurrLocationMarker.remove();
         }
 
-        //LatLng userposition = new LatLng(49.610700, 6.112550);
         LatLng userposition = new LatLng(location.getLatitude(),location.getLongitude());
         MarkerOptions markeroptions = new MarkerOptions();
         markeroptions.position(userposition);
@@ -267,16 +266,12 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
         y= y.substring(0, y.length()-1);
         String x = current_lon.replaceAll("[.]","");
         x =x.substring(0, x.length()-1);
-        //LatLng userposition = new LatLng(49.610700, 6.112550);
         LatLng userposition = new LatLng(Double.valueOf(current_lat), Double.valueOf(current_lon));
         MarkerOptions markeroptions = new MarkerOptions();
         markeroptions.position(userposition);
         markeroptions.title("You are here!");
         //markerOptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_MAGENTA));
         mCurrLocationMarker = mMap.addMarker(markeroptions);
-        //x = "6112550";
-        //y = "49610700";
-        //jt.execute("http://travelplanner.mobiliteit.lu/hafas/query.exe/dot", "performLocating=2&tpl=stop2csv&stationProxy=yes&look_maxdist="+radius+"&look_x="+x+"&look_y="+y+"", "6.112550", "49.610700");
         jt.execute("http://travelplanner.mobiliteit.lu/hafas/query.exe/dot", "performLocating=2&tpl=stop2csv&stationProxy=yes&look_maxdist="+radius+"&look_x="+x+"&look_y="+y+"", current_lat, current_lon);
         ArrayList<BusStopCoordinate> busStopCoordinates = jt.get();
         if ( closeRadio.isChecked() && busStopCoordinates.size() != 0){
@@ -325,7 +320,6 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
     public void drawRoute(View view) throws ExecutionException, InterruptedException {
         //map clear and add  current location marker again
         mMap.clear();
-        //LatLng userposition = new LatLng(49.610700, 6.112550);
         LatLng userposition = new LatLng(Double.valueOf(current_lat), Double.valueOf(current_lon) );
         MarkerOptions markeroptions = new MarkerOptions();
         markeroptions.position(userposition);
@@ -334,7 +328,6 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
 
         if ( mEraseMarker != null) {
             //Draw route on map
-            //drawRouteOnMap("49.610700", "6.112550", String.valueOf(mEraseMarker.getPosition().latitude), String.valueOf(mEraseMarker.getPosition().longitude), false);
             drawRouteOnMap(current_lat, current_lon, String.valueOf(mEraseMarker.getPosition().latitude), String.valueOf(mEraseMarker.getPosition().longitude), false);
         }
         if ( mEraseMarker != null &&  mEraseMarker.getTitle().equals("Bus Station")){        //Redraw bus station markers bcz map is cleared - same with when bus station button is clicked
@@ -351,9 +344,6 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
             y= y.substring(0, y.length()-1);
             String x = current_lon.replaceAll("[.]","");
             x =x.substring(0, x.length()-1);
-            //x = "6112550";
-            //y = "49610700";
-            //jt.execute("http://travelplanner.mobiliteit.lu/hafas/query.exe/dot", "performLocating=2&tpl=stop2csv&stationProxy=yes&look_maxdist="+radius+"&look_x="+x+"&look_y="+y+"", "6.112550", "49.610700");
             jt.execute("http://travelplanner.mobiliteit.lu/hafas/query.exe/dot", "performLocating=2&tpl=stop2csv&stationProxy=yes&look_maxdist="+radius+"&look_x="+x+"&look_y="+y+"", current_lat, current_lon);
             ArrayList<BusStopCoordinate> busStopCoordinates = jt.get();
             if ( closeRadio.isChecked() && busStopCoordinates.size() != 0){
